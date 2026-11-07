@@ -1,0 +1,6 @@
+node_modules/
+.env
+dist/
+server/auth.db
+server/auth.db-shm
+server/auth.db-wal
